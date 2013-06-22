@@ -1,0 +1,47 @@
+*{
+    padding:0;
+    margin:0;
+}
+ul{
+    list-style:none;
+}
+li{
+    float:left;
+    margin-right:10px;
+}
+h1,h2,h3,h4,h5{
+    padding:15px 0px;
+}
+.wrapper{
+    width:960px;
+    margin:0px auto;
+}
+p.desc{
+    line-height:30px;
+}
+div.treasure span{
+    color:blue;
+    font-size:20px;
+    font-weight:bold;
+    padding:0px 10px;
+    padding-left:0px;
+}
+
+a{
+    background: #2ba6cb;
+    border: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    width: auto;
+    color: white;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    line-height: 1;
+    margin: 10px 0px;
+    padding: 10px 20px 11px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+}
